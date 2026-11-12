@@ -1,0 +1,71 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background: #f0f4ff;
+  color: #222;
+}
+
+header {
+  background: #2563eb;
+  color: white;
+  text-align: center;
+  padding: 30px 15px;
+  border-radius: 0 0 20px 20px;
+}
+
+header h1 {
+  font-size: 30px;
+  margin-bottom: 8px;
+}
+
+main {
+  background: white;
+  margin: 25px 15px;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0 3px 10px #0001;
+}
+
+h2 {
+  color: #2563eb;
+  margin-bottom: 12px;
+}
+
+select {
+  width: 100%;
+  padding: 12px;
+  margin: 15px 0;
+  border: 1px solid #2563eb;
+  border-radius: 8px;
+  font-size: 16px;
+}
+
+#hasil {
+  background: #eff6ff;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+#hasil h3 {
+  color: #2563eb;
+  margin-bottom: 15px;
+}
+
+.pelajaran {
+  background: white;
+  padding: 12px;
+  margin-bottom: 10px;
+  border-radius: 8px;
+  border-left: 4px solid #2563eb;
+}
+
+footer {
+  text-align: center;
+  padding: 15px;
+  color: #666;
+}

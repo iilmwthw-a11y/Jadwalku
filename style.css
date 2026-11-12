@@ -69,3 +69,10 @@ footer {
   padding: 15px;
   color: #666;
 }
+body {
+  font-family: Arial, sans-serif;
+}
+
+* {
+  font-variant-emoji: text;
+}
